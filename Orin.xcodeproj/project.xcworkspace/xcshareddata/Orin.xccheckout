@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D8D13C4-B68E-4214-8FA6-0B0B2C02C5BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Orin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5CFDCA1F-5FD9-4AEA-95DE-2D547416CB30</key>
+		<string>https://bitbucket.org/afoketunji/orin-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Orin.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5CFDCA1F-5FD9-4AEA-95DE-2D547416CB30</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/afoketunji/orin-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5CFDCA1F-5FD9-4AEA-95DE-2D547416CB30</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5CFDCA1F-5FD9-4AEA-95DE-2D547416CB30</string>
+			<key>IDESourceControlWCCName</key>
+			<string>orin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
